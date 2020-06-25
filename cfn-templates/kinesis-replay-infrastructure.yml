@@ -149,5 +149,5 @@ Resources:
 
 Mappings:
   AWSRegionArch2AMI:
-    eu-west-1:
+    ap-southeast-1:
       HVM64: ami-07683a44e80cd32c5
